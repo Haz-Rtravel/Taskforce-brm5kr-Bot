@@ -1,0 +1,21 @@
+{
+  "name": "discord-taskforce-brm5kr-bot",
+  "version": "1.0.0",
+  "description": "testing-host",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "firebase": "^8.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haz-Rtravel/Taskforce-brm5kr-Bot.git"
+  },
+  "author": "Haz-Rtravel",
+  "license": "ISC"
+}
