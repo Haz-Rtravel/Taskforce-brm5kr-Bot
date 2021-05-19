@@ -16,6 +16,10 @@
     "type": "git",
     "url": "git+https://github.com/Haz-Rtravel/Taskforce-brm5kr-Bot.git"
   },
+  "engines": {
+    "node": "14.15.3",
+    "npm": "*"
+  },
   "author": "Haz-Rtravel",
   "license": "ISC"
 }
